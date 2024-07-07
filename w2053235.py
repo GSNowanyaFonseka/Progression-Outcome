@@ -6,7 +6,7 @@
 #import graphics module
 from graphics import *
 
-#Create a Window
+#Create a Window 
 win=GraphWin("Histogram",600,500)
 win.setBackground("#ecf3ec")
 
